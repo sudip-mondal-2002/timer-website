@@ -10,22 +10,13 @@ body {
   
   h1 {
     font-size: 100px;
+    
   }
   
   .container {
-    margin: 60% auto;
-  }
-  
-  button {
-    display: inline;
-    background-color: #6bbe92;
-    border: 0;
-    border-radius: 10px;
-    box-shadow: 5px;
-    margin: 10px;
-    text-align: center;
-    color: #fff;
-    font-weight: bold;
-    font-size: 50px;
+    margin: 10% auto;
+    width: 500px;
+    border-style: double;
+    border-width: 0.5rem;
   }
   
